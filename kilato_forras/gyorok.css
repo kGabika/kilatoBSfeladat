@@ -1,0 +1,14 @@
+body{
+    background-image: url(back.jpg);
+    background-size:100% 100%;
+}
+#cim{
+    background-image: url(panorama.jpg);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    
+}
+#magas{
+   vertical-align: middle;
+    height: 190px;
+}
